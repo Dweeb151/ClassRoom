@@ -1,0 +1,60 @@
+C:\Users\User\source\repos\classRoom\bin\Debug\net6.0-windows\classRoom.exe
+C:\Users\User\source\repos\classRoom\bin\Debug\net6.0-windows\classRoom.deps.json
+C:\Users\User\source\repos\classRoom\bin\Debug\net6.0-windows\classRoom.runtimeconfig.json
+C:\Users\User\source\repos\classRoom\bin\Debug\net6.0-windows\classRoom.dll
+C:\Users\User\source\repos\classRoom\bin\Debug\net6.0-windows\classRoom.pdb
+C:\Users\User\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.Form1.resources
+C:\Users\User\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.csproj.GenerateResource.cache
+C:\Users\User\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.AssemblyInfo.cs
+C:\Users\User\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.dll
+C:\Users\User\source\repos\classRoom\obj\Debug\net6.0-windows\refint\classRoom.dll
+C:\Users\User\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.pdb
+C:\Users\User\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.genruntimeconfig.cache
+C:\Users\User\source\repos\classRoom\obj\Debug\net6.0-windows\ref\classRoom.dll
+C:\Users\User\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.Properties.Resources.resources
+C:\Users\Hamish\source\repos\classRoom\bin\Debug\net6.0-windows\classRoom.exe
+C:\Users\Hamish\source\repos\classRoom\bin\Debug\net6.0-windows\classRoom.deps.json
+C:\Users\Hamish\source\repos\classRoom\bin\Debug\net6.0-windows\classRoom.runtimeconfig.json
+C:\Users\Hamish\source\repos\classRoom\bin\Debug\net6.0-windows\classRoom.dll
+C:\Users\Hamish\source\repos\classRoom\bin\Debug\net6.0-windows\classRoom.pdb
+C:\Users\Hamish\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.csproj.AssemblyReference.cache
+C:\Users\Hamish\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.Form1.resources
+C:\Users\Hamish\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.Properties.Resources.resources
+C:\Users\Hamish\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.csproj.GenerateResource.cache
+C:\Users\Hamish\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamish\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.AssemblyInfoInputs.cache
+C:\Users\Hamish\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.AssemblyInfo.cs
+C:\Users\Hamish\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.csproj.CoreCompileInputs.cache
+C:\Users\Hamish\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.dll
+C:\Users\Hamish\source\repos\classRoom\obj\Debug\net6.0-windows\refint\classRoom.dll
+C:\Users\Hamish\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.pdb
+C:\Users\Hamish\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.genruntimeconfig.cache
+C:\Users\Hamish\source\repos\classRoom\obj\Debug\net6.0-windows\ref\classRoom.dll
+C:\Users\Hamish\source\repos\classRoom\bin\Debug\net6.0-windows\classRoom.xml
+C:\Users\Hamish\source\repos\classRoom\obj\Debug\net6.0-windows\classRoom.xml
+C:\Users\IT Student\Desktop\ICTPRG443_AT3_HStockwell_455158337\Submission\classRoom\obj\Debug\net6.0-windows\ClassRoom.csproj.AssemblyReference.cache
+C:\Users\IT Student\Desktop\ICTPRG443_AT3_HStockwell_455158337\Submission\classRoom\obj\Debug\net6.0-windows\ClassRoom.dll
+C:\Users\IT Student\Desktop\ICTPRG443_AT3_HStockwell_455158337\Submission\classRoom\obj\Debug\net6.0-windows\refint\ClassRoom.dll
+C:\Users\IT Student\Desktop\ICTPRG443_AT3_HStockwell_455158337\Submission\classRoom\obj\Debug\net6.0-windows\ClassRoom.xml
+C:\Users\IT Student\Desktop\ICTPRG443_AT3_HStockwell_455158337\Submission\classRoom\obj\Debug\net6.0-windows\ClassRoom.pdb
+C:\Users\IT Student\Desktop\ICTPRG443_AT3_HStockwell_455158337\Submission\classRoom\bin\Debug\net6.0-windows\ClassRoom.exe
+C:\Users\IT Student\Desktop\ICTPRG443_AT3_HStockwell_455158337\Submission\classRoom\bin\Debug\net6.0-windows\ClassRoom.deps.json
+C:\Users\IT Student\Desktop\ICTPRG443_AT3_HStockwell_455158337\Submission\classRoom\bin\Debug\net6.0-windows\ClassRoom.runtimeconfig.json
+C:\Users\IT Student\Desktop\ICTPRG443_AT3_HStockwell_455158337\Submission\classRoom\bin\Debug\net6.0-windows\ClassRoom.dll
+C:\Users\IT Student\Desktop\ICTPRG443_AT3_HStockwell_455158337\Submission\classRoom\bin\Debug\net6.0-windows\ClassRoom.pdb
+C:\Users\IT Student\Desktop\ICTPRG443_AT3_HStockwell_455158337\Submission\classRoom\bin\Debug\net6.0-windows\ClassRoom.xml
+C:\Users\IT Student\Desktop\ICTPRG443_AT3_HStockwell_455158337\Submission\classRoom\obj\Debug\net6.0-windows\ClassRoom.Properties.Resources.resources
+C:\Users\IT Student\Desktop\ICTPRG443_AT3_HStockwell_455158337\Submission\classRoom\obj\Debug\net6.0-windows\ClassRoom.csproj.GenerateResource.cache
+C:\Users\IT Student\Desktop\ICTPRG443_AT3_HStockwell_455158337\Submission\classRoom\obj\Debug\net6.0-windows\ClassRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT Student\Desktop\ICTPRG443_AT3_HStockwell_455158337\Submission\classRoom\obj\Debug\net6.0-windows\ClassRoom.AssemblyInfoInputs.cache
+C:\Users\IT Student\Desktop\ICTPRG443_AT3_HStockwell_455158337\Submission\classRoom\obj\Debug\net6.0-windows\ClassRoom.AssemblyInfo.cs
+C:\Users\IT Student\Desktop\ICTPRG443_AT3_HStockwell_455158337\Submission\classRoom\obj\Debug\net6.0-windows\ClassRoom.csproj.CoreCompileInputs.cache
+C:\Users\IT Student\Desktop\ICTPRG443_AT3_HStockwell_455158337\Submission\classRoom\obj\Debug\net6.0-windows\ClassRoom.genruntimeconfig.cache
+C:\Users\IT Student\Desktop\ICTPRG443_AT3_HStockwell_455158337\Submission\classRoom\obj\Debug\net6.0-windows\ref\ClassRoom.dll
+C:\Users\IT Student\Desktop\ICTPRG443_AT3_HStockwell_455158337\Submission\classRoom\obj\Debug\net6.0-windows\classRoom.Form1.resources
+C:\Users\User\source\repos\classRoom\bin\Debug\net6.0-windows\ClassRoom.xml
+C:\Users\User\source\repos\classRoom\obj\Debug\net6.0-windows\ClassRoom.xml
